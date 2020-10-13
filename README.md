@@ -1,9 +1,4 @@
 # Question-clasification
-
-Download glove vectors used for word mappings - https://drive.google.com/file/d/1saFGKezSFgH-5YjsQX_yiWes41xqbHrf/view?usp=sharing
-
-Save the file in `data` folder as `glove.txt`
-
 ### Requirements
 Python packages :
 > python = 2.7 \
